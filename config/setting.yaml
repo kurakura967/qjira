@@ -1,0 +1,4 @@
+username: your_username
+token: your_token
+baseURL: https://your_jira_domain/jira/rest/api/2
+browseURL: https://your_jira_domain/jira/browse
